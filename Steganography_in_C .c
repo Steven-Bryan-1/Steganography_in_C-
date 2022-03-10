@@ -1,7 +1,4 @@
-/*
-Steven Bryan
- */
-
+//This file includes "system("clear")" which may not work depending on where the code is run, so just comment that out
 
 //Include all header files
 //need time.h for srand()
