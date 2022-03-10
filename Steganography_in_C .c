@@ -1,7 +1,5 @@
 /*
 Steven Bryan
-CIS 2107 Spring 2022
-TUID: 915789331
  */
 
 
